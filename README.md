@@ -1,4 +1,4 @@
-This collaborative project, referred to as #0x11 C - printf, forms a component of the ALX Software Engineering program. 
+This collaborative project, referred to as #0x11 C - printf, forms a component of the ALX Software Engineering program.
 Its purpose is to imitate the functionality of the printf() function within the C standard library.
 
 The key takeaways from this project include:
