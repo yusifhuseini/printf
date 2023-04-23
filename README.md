@@ -7,4 +7,4 @@ The key takeaways from this project include:
 3. Understanding the intricacies involved in implementing the printf function
 4. Learning how to manage numerous files and establish an effective workflow.
 
-Thanks!
+Thank You.
